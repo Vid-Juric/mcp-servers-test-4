@@ -1,0 +1,8 @@
+{
+    "mcpservers-bad-config": {
+        "ExampleMCP": {
+            "type": "http",
+            "url": "https://example.com/mcp"
+        }
+    }
+}
